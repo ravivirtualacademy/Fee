@@ -1,0 +1,5 @@
+{
+  "name": "AI School Manager",
+  "description": "An AI-powered school management system to handle student records, generate fee vouchers, and assist with administrative tasks. Features include student management, fee calculation, and AI-driven report card and communication generation.",
+  "requestFramePermissions": []
+}
